@@ -1,9 +1,10 @@
 Content
 
-  1. Home Page:
-
+  Common to all pages:
     - Navigation Bar:
       "Home", "About Me", "Projects", "Contact"
+
+  1. Home Page:
 
     - Header:
       "Jonah Horst"
@@ -11,15 +12,19 @@ Content
 
   2. About Me Page:
 
-    - Navigation Bar:
-      "Home", "About Me", "Projects", "Contact"
-
     - Header:
       "Get To Know Me"
 
-    - Profile
+    - Profile:
+      "Dedicated, Hard working, and well-organized."
+      "Current student at Thaddeus Stevens College of Technology,
+      studying Computer Software Engineering Technology."
+      "Enthusiastic about sci-fi/fantasy games and movies,
+      hiking, biking, and NFL football."
+      "Aspiring to become a web developer, specifically front-end."
 
     - Picture of myself
+      (images in pictures folder)
 
     - Skills:
       "HTML, CSS, JavaScript, Git"
@@ -41,15 +46,10 @@ Content
 
   3. Projects Page:
 
-    - Navigation Bar:
-      "Home", "About Me", "Projects", "Contact"
-
-    - Lists of Projects with screenshot previews.
+    - List of Projects with screenshot previews
+      (images in pictures folder)
 
   4. Contact Me Page:
-
-    - Navigation Bar:
-      "Home", "About Me", "Projects", "Contact"
 
     - Header:
       "Contact Me"

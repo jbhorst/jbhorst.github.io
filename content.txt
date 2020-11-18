@@ -1,0 +1,60 @@
+Content
+
+  1. Home Page:
+
+    - Navigation Bar:
+      "Home", "About Me", "Projects", "Contact"
+
+    - Header:
+      "Jonah Horst"
+      "Aspiring Web Developer"
+
+  2. About Me Page:
+
+    - Navigation Bar:
+      "Home", "About Me", "Projects", "Contact"
+
+    - Header:
+      "Get To Know Me"
+
+    - Profile
+
+    - Picture of myself
+
+    - Skills:
+      "HTML, CSS, JavaScript, Git"
+
+    - Header 2:
+      "Education History"
+
+    - List:
+      "Thaddeus Stevens - 2019 to present"
+      "JP McCaskey High School - 2008 to 2012"
+
+    - Header 2:
+      "Employment History"
+
+    - List:
+      "Springhouse Taproom - 2016 to 2020"
+      "Annie Bailey's - 2018 to 2019"
+      "Lancaster Brewing Company - 2017 to 2018"
+
+  3. Projects Page:
+
+    - Navigation Bar:
+      "Home", "About Me", "Projects", "Contact"
+
+    - Lists of Projects with screenshot previews.
+
+  4. Contact Me Page:
+
+    - Navigation Bar:
+      "Home", "About Me", "Projects", "Contact"
+
+    - Header:
+      "Contact Me"
+
+    - Clickable logo images:
+      "Github, Repl.it, Email"
+
+    - Credits to image makers at bottom of page
